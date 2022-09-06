@@ -1,0 +1,49 @@
+body {
+  background: lightyellow;
+}
+
+h1,
+h3,
+h4 {
+  font-family: "Rampart One", cursive, Arial, Helvetica, sans-serif;
+}
+
+img {
+  border: 5px solid rgb(170, 211, 221, 0.9);
+  border-radius: 30px 0 30px 0;
+  box-shadow: 5px 5px 5px rgb(61, 60, 60);
+}
+
+p {
+  background-color: antiquewhite;
+  border: 1px solid antiquewhite;
+  border-radius: 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: royalblue;
+  transition: all 400ms ease-in-out;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.container {
+  padding: 30px;
+}
+
+.info {
+  padding: 10px;
+  background-color: rgb(170, 211, 221);
+  border: 1px solid black;
+  border-radius: 50px;
+}
+
+.img-1 {
+  border: 5px solid rgb(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
